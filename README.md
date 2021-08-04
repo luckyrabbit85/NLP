@@ -8,7 +8,7 @@
 
 ## Overview
 • This repository consists of all my Natural Language Processing projects.  
-• Datasets are provided in each of the folders above, and the solutions to the problem statements as well.  
+• I have not uploaded the datasets used but provided links and description for each Project.  
 
 ## Contents
 
