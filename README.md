@@ -1,9 +1,10 @@
 # Natural Language Processing Projects
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Hugging Face](https://img.shields.io/badge/Library-Huggingface-orange.svg)
 
-• The main purpose of making this repository is to keep all my Natural Language Processing projects at one place.
-
 ![](https://i.ibb.co/LJJm3Wq/books-wallpaper-Books-to-Read-Wallpaper-28990406.jpg)
+
+
+• The main purpose of making this repository is to keep all my Natural Language Processing projects at one place.
 
 ## Overview
 • This repository consists of all my Natural Language Processing projects.  
