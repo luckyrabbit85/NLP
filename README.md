@@ -10,16 +10,16 @@
 • This repository consists of all my Natural Language Processing projects.  
 • Datasets are provided in each of the folders above, and the solutions to the problem statements as well.  
 
+## Contents
 
-
-# Understanding Transformers
++  **Understanding Transformers**
 
 Here I'have tried to explain the Transformer architecture used in the paper 
 [Attention is all you need](https://arxiv.org/abs/1706.03762) 
 
-# Fine Tuning BERT for Sequence Classification
++ **Fine Tuning BERT for Sequence Classification**
 
-# Machine Translation with Transformers
++ **Machine Translation with Transformers**
 
 http://statmt.org/europarl/v10/training/
 https://github.com/google/trax
