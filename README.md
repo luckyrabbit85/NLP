@@ -19,7 +19,10 @@
 
 + **Fine Tuning BERT for Sequence Classification**
 
-+ **Machine Translation with Transformers**
+
+
++ **Machine Translation with Transformers**  
+
   Dataset: European Parliament Proceedings Parallel Corpus English to French  
   Source: http://statmt.org/europarl/v10/training/europarl-v10.fr-en.tsv.gz  
   Library: https://github.com/google/trax  
