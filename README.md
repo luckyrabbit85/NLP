@@ -4,11 +4,11 @@
 ![](https://i.ibb.co/LJJm3Wq/books-wallpaper-Books-to-Read-Wallpaper-28990406.jpg)
 
 
-• The main purpose of making this repository is to keep all my Natural Language Processing projects at one place.
++ The main purpose of making this repository is to keep all my Natural Language Processing projects at one place.
 
 ## Overview
-• This repository consists of all my Natural Language Processing projects.  
-• I have not uploaded the datasets used but provided links and description for each Project.  
++ This repository consists of all my Natural Language Processing projects.  
++ I have not uploaded the datasets used but provided links and description for each Project.  
 
 ## Contents
 
@@ -20,6 +20,6 @@
 + **Fine Tuning BERT for Sequence Classification**
 
 + **Machine Translation with Transformers**
-
-http://statmt.org/europarl/v10/training/
-https://github.com/google/trax
+  Dataset: European Parliament Proceedings Parallel Corpus English to French  
+  Source: http://statmt.org/europarl/v10/training/europarl-v10.fr-en.tsv.gz  
+  Library: https://github.com/google/trax  
