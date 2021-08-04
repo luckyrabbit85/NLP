@@ -1,11 +1,15 @@
 # Natural Language Processing Projects
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Hugging Face](https://img.shields.io/badge/Library-Huggingface-orange.svg)
 
-• The main purpose of making this repository is to keep all my Natural Language Processing projects at one place, hence keeping my GitHub clean!
+• The main purpose of making this repository is to keep all my Natural Language Processing projects at one place.
+
+![](https://i.ibb.co/LJJm3Wq/books-wallpaper-Books-to-Read-Wallpaper-28990406.jpg)
 
 ## Overview
-• This repository consists of all my Natural Language Processing projects.<br/>
-• Datasets are provided in each of the folders above, and the solutions to the problem statements as well.
+• This repository consists of all my Natural Language Processing projects.  
+• Datasets are provided in each of the folders above, and the solutions to the problem statements as well.  
+
+
 
 # Understanding Transformers
 
